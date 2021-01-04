@@ -1,0 +1,19 @@
+<annotation>
+	<folder>data_206</folder>
+	<filename>1740_3_01798.jpg</filename>
+	<size>
+		<width>3072</width>
+		<height>1728</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<truncated>0</truncated>
+		<bndbox>
+			<xmin>2120</xmin>
+			<ymin>1065</ymin>
+			<xmax>2180</xmax>
+			<ymax>1243</ymax>
+		</bndbox>
+	</object>
+</annotation>
